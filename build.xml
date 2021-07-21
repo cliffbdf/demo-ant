@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name="Ant demo" default="info">
+<target name="info">
+<echo> Hello World - Welcome to Simplilearn</echo>
+</target>
+</project>
+
